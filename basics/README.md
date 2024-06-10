@@ -9,3 +9,4 @@
 8-firstdelete - Delete the file better from /tmp/my_first_directory
 9-firstdirdeletion - Delete the my_first_directory directory
 10-back - Switch to previous working directory
+11-lists - list all files in the current and parent directories, and the /boot directory
