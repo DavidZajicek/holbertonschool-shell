@@ -8,3 +8,4 @@
 7-movethatfile - Move betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete - Delete the file better from /tmp/my_first_directory
 9-firstdirdeletion - Delete the my_first_directory directory
+10-back - Switch to previous working directory
