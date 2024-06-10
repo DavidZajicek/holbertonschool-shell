@@ -5,3 +5,4 @@ Shell, permissions Holberton School Project
 2-groups - A script that prints all the groups the current user is a part of
 3-new_owner - change owner of file hello to betty
 4-empty - Creates an empty file called hello
+5-execute - Add execute permission to the owner of the file hello
