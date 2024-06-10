@@ -8,3 +8,4 @@ Shell, permissions Holberton School Project
 5-execute - Add execute permission to the owner of the file hello
 6-multiple_permissions - add execute to owner and group owner, read to others
 7-everybody - add a+x
+8-James_Bond - set hello permissions to only other users
