@@ -15,3 +15,4 @@
 14-copy_html - Copy all updated and new html files into the parent directory fo the current working directory
 15-lets_move - Move all files beginning with an uppercase letter to /tmp/u
 16-clean_emacs - delete all files that end with the ~ character
+17-tree - create a tree of directories welcome/to/school in a single command
