@@ -7,3 +7,4 @@ Shell, permissions Holberton School Project
 4-empty - Creates an empty file called hello
 5-execute - Add execute permission to the owner of the file hello
 6-multiple_permissions - add execute to owner and group owner, read to others
+7-everybody - add a+x
