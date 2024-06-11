@@ -25,3 +25,4 @@
 22-users_and_homes - show users and their home directoris from /etc/passwd
 #Advanced tasks:
 23-empty-casts - find all empty files recursively
+24-gifs - show only .gif files
