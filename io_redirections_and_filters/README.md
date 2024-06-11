@@ -7,3 +7,4 @@ Shell, io redirections and filters
 4-lastlines - display the last 10 lines of /etc/passwd
 5-firstlines - display the first 10 lines of /etc/passwd
 6-third_line - display the third line of the file iacta
+7-file - create a file with a specific name and contents
