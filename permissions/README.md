@@ -14,3 +14,4 @@ Shell, permissions Holberton School Project
 11-directories_permissions - add execute permissions to all subfolders not files
 12-directory_permissions - create my_dir with 751 umask
 13-change_group - chgrp school hello script
+14-change_owner_and_group - change the owner to vincent and the group to staff for all files and directories in the current working directory
