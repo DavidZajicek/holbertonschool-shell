@@ -10,3 +10,4 @@ Shell, permissions Holberton School Project
 7-everybody - add a+x
 8-James_Bond - set hello permissions to only other users
 9-John_Doe - set hello permissions to 753
+10-mirror_permissions - --reference=reference_file
