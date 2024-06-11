@@ -14,3 +14,4 @@ Shell, io redirections and filters
 11-directories - print the total number of directories and sub directories
 12-newest_files - print th 10 newest files in the current directory
 13-unique - sort and uniq a given list of words
+14-findthatword - display /etc/passwd lines that contain root
