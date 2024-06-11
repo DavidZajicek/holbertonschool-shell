@@ -11,3 +11,4 @@ Shell, io redirections and filters
 8-cwd_state - log the current working directory file list in ls_cwd_content
 9-duplicate_last_line - append a duplicate of the last line in the file iacta
 10-no_more_js - delete all .js files, but not directories
+11-directories - print the total number of directories and sub directories
