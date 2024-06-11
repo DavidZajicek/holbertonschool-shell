@@ -1,4 +1,4 @@
-Shell, io redirections and filters
+#Shell, io redirections and filters
 
 0-hello_world - Print "Hellow, World" followed by a new line
 1-confused_smiley - print "(Ôo)'
@@ -23,3 +23,5 @@ Shell, io redirections and filters
 20-hiago - remove C and c from input
 21-reverse - reverse input
 22-users_and_homes - show users and their home directoris from /etc/passwd
+#Advanced tasks:
+23-empty-casts - find all empty files recursively
