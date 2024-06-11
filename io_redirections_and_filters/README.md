@@ -22,3 +22,4 @@ Shell, io redirections and filters
 19-AZ - replace 'A' with 'Z' and 'c' with 'e'
 20-hiago - remove C and c from input
 21-reverse - reverse input
+22-users_and_homes - show users and their home directoris from /etc/passwd
