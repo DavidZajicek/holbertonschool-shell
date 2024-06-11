@@ -15,3 +15,4 @@ Shell, permissions Holberton School Project
 12-directory_permissions - create my_dir with 751 umask
 13-change_group - chgrp school hello script
 14-change_owner_and_group - change the owner to vincent and the group to staff for all files and directories in the current working directory
+15-symbolic_link_permissions - change the owner and group owner of _hello to vincent:staff
