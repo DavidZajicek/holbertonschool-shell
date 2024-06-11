@@ -20,3 +20,4 @@ Shell, io redirections and filters
 17-hidethisword - display lines that do not contain "bin"
 18-letteronly - display the lines of /etc/ssh/sshd_config that start with a letter
 19-AZ - replace 'A' with 'Z' and 'c' with 'e'
+20-hiago - remove C and c from input
