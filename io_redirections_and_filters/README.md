@@ -26,3 +26,4 @@
 #Advanced tasks:
 23-empty-casts - find all empty files recursively
 24-gifs - show only .gif files
+25-acrostic - decode acrostic poems by extracting only the first letter of each line in input
