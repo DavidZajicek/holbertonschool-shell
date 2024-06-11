@@ -12,3 +12,4 @@ Shell, io redirections and filters
 9-duplicate_last_line - append a duplicate of the last line in the file iacta
 10-no_more_js - delete all .js files, but not directories
 11-directories - print the total number of directories and sub directories
+12-newest_files - print th 10 newest files in the current directory
