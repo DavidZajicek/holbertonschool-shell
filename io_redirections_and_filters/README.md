@@ -18,3 +18,4 @@ Shell, io redirections and filters
 15-countthatword - display a count of the number of times "bin" is in the file /etc/passwd
 16-whatsnext - display lines containing "root" and 3 lines after them in /etc/passwd
 17-hidethisword - display lines that do not contain "bin"
+18-letteronly - display the lines of /etc/ssh/sshd_config that start with a letter
