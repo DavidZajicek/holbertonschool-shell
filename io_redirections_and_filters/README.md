@@ -19,3 +19,4 @@ Shell, io redirections and filters
 16-whatsnext - display lines containing "root" and 3 lines after them in /etc/passwd
 17-hidethisword - display lines that do not contain "bin"
 18-letteronly - display the lines of /etc/ssh/sshd_config that start with a letter
+19-AZ - replace 'A' with 'Z' and 'c' with 'e'
