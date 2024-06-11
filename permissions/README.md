@@ -11,3 +11,4 @@ Shell, permissions Holberton School Project
 8-James_Bond - set hello permissions to only other users
 9-John_Doe - set hello permissions to 753
 10-mirror_permissions - --reference=reference_file
+11-directories_permissions - add execute permissions to all subfolders not files
