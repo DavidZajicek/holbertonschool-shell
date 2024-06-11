@@ -8,3 +8,4 @@ Shell, io redirections and filters
 5-firstlines - display the first 10 lines of /etc/passwd
 6-third_line - display the third line of the file iacta
 7-file - create a file with a specific name and contents
+8-cwd_state - log the current working directory file list in ls_cwd_content
