@@ -27,3 +27,4 @@
 23-empty-casts - find all empty files recursively
 24-gifs - show only .gif files
 25-acrostic - decode acrostic poems by extracting only the first letter of each line in input
+26-the_biggest_fan - Sort by which host has made the most requests, showing the top 11
