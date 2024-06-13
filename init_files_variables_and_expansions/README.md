@@ -14,3 +14,4 @@ Shell: init files, variables, and expansions
 11-binary_to_decimal - print the decimal version of the given binary number in $BINARY
 12-combinations - print the combinations of all letters except oo
 13-print_float - print $NUM with two decimal places
+14-decimal_to_hexadcimal - prints decimal number as hexadecimal
