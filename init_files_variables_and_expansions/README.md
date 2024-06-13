@@ -19,3 +19,4 @@
 #Advanced Tasks
 
 15-rot13 - encode and decode text using rot13 encryption, assuming ASCII as the input
+16-odd - print every other line from the input, starting with the first line
