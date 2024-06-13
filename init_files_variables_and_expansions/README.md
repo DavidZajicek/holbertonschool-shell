@@ -1,4 +1,4 @@
-Shell: init files, variables, and expansions
+#Shell: init files, variables, and expansions
 
 0-alias - alias for ls to rm (WHY WOULD YOU DO THIS?!)
 1-hello_you - print hello $USER where $USER is the current user's name
@@ -15,3 +15,7 @@ Shell: init files, variables, and expansions
 12-combinations - print the combinations of all letters except oo
 13-print_float - print $NUM with two decimal places
 14-decimal_to_hexadcimal - prints decimal number as hexadecimal
+
+#Advanced Tasks
+
+15-rot13 - encode and decode text using rot13 encryption, assuming ASCII as the input
