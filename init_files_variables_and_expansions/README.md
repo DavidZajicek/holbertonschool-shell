@@ -6,3 +6,4 @@ Shell: init files, variables, and expansions
 3-paths - count the number of directories in PATH
 4-global_variables - list env variables
 5-local_variables - list all local variables and environments variables and functions
+6-create_local_variable - create a new local varaiable
