@@ -5,3 +5,4 @@ Shell: init files, variables, and expansions
 2-path - add /action to PATH
 3-paths - count the number of directories in PATH
 4-global_variables - list env variables
+5-local_variables - list all local variables and environments variables and functions
