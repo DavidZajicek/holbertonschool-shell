@@ -12,3 +12,4 @@ Shell: init files, variables, and expansions
 9-divide_and_rule - divide power by divide
 10-love_exponent_breath - BREATH ** LOVE
 11-binary_to_decimal - print the decimal version of the given binary number in $BINARY
+12-combinations - print the combinations of all letters except oo
