@@ -4,3 +4,4 @@ Shell: init files, variables, and expansions
 1-hello_you - print hello $USER where $USER is the current user's name
 2-path - add /action to PATH
 3-paths - count the number of directories in PATH
+4-global_variables - list env variables
